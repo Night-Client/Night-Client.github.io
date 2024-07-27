@@ -1,5 +1,6 @@
 html, body {
-    background-color: black;
     height: 100%;
     width: 100%;
+    background-color: #f2f2f2;
+    font-family: "Lucida Console","Papyrus";
 }
