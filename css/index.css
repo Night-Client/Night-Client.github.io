@@ -4,3 +4,17 @@ html, body {
     background-color: #f2f2f2;
     font-family: "Lucida Console","Papyrus";
 }
+
+.box {
+    font-family: "Madimi One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    border-style: solid;
+    border-width: 5px;
+    border-color: gray;
+    color: gray;
+    background-color: lightgray;
+    text-shadow: 2px 2px #f2f2f2;
+    border-radius: 50px;
+    width: 400px;
+}
