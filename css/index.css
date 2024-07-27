@@ -26,3 +26,19 @@ html, body {
     font-style: normal;
     color: gray;
 }
+
+.button {
+    width: 200px;
+    font-family: inherit;
+    background-color: darkgray;
+    color: gray;
+    border-style: solid;
+    border-color: gray;
+    border-radius: 30px;
+    height: 30px;
+    font-size: 15px;
+}
+
+.margin {
+    margin: 5px;
+}
